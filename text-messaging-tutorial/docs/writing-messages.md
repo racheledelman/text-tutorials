@@ -6,9 +6,8 @@ In this section, we'll cover the constraints and possibilities of text message c
 
 Each text message is limited to 160 characters. That includes letters, punctuation, and spaces. You can use a website like [Character Count Tool](http://charactercounttool.com/) to help you stick to this limit.
 
-<div id="cct_embed_counts"><textarea id="cct_embed_input_text" rows="12"></textarea>
-<div id="cct_powered_by">Powered by [Character Count Tool](http://charactercounttool.com)</div>
-</div>
+<div id="cct_embed_counts"><textarea id="cct_embed_input_text" rows="12"></textarea></div>
+Powered by [Character Count Tool](http://charactercounttool.com)
 
 
 ## Identify yourself
@@ -39,7 +38,9 @@ If you include a phone number, make sure the people in charge of answering that 
 
 ## Unsubscribe
 
-You're [legally required](https://consumercomplaints.fcc.gov/hc/en-us/articles/204930920) to give recipients a way to unsubscribe from your text messages. Luckily, TextIt has this feature built in. Anyone who replies with the word "stop" will be automatically EXPLAIN HERE. Not everyone will know about this feature, so it's best to include instructions in your message. A good example is "Text STOP to unsubscribe"
+You're [legally required](https://consumercomplaints.fcc.gov/hc/en-us/articles/204930920) to give recipients a way to unsubscribe from your text messages. Luckily, TextIt has this feature built in. Anyone who replies with the word "stop" will be automatically EXPLAIN HERE. Not every recipeient will know about this feature, so it's best to include instructions in your message. A good example is "Text STOP to unsubscribe"
+
+[include photo]
 
 ## Keywords
 
