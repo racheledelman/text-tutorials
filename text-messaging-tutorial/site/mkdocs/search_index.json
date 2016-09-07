@@ -1,0 +1,179 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nMkLorum\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#mklorum", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "MkLorum"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/planning/", 
+            "text": "Planning a campaign\n\n\nWho?\n\n\nFor appointment reminders, you'll contact any clients with upcoming vaccines. For special events and general reminders, consider who your target audience is. It's tempting to cast as wide a net as possible, but it's easy to fall into spamming behavior. People will appreciate texts that are relevant to them the most.\n\n\nWhat?\n\n\nWhat will you be using text messages for? Two common scenarios for public health are appointment reminders and general announcements. Specify a clear goal for your text campaign.\n\n\nExample could be \"remind client of their upcoming appointment\", or \"inform parents of eighth graders of new vaccine requirements\", or \"advertise our health fair\". In the \nnext section\n, we'll cover how to write messages.\n\n\nWhen?\n\n\nWhen will you be sending out your messages? You can manually send them, or \nschedule\n a time in the future.\n\n\nAre you including a phone number people can call for more information? Make sure you're sending the message during business hours. Likewise, if you're planning on replying to responses individually, you'll want to make sure someone is available to do that.\n\n\nHow often?\n\n\nIt's a good idea to send multiple reminders, especially for appointments and events. you'll need to find a balance between helpful and annoying. Consider how many reminders you want to send, and at what intervals.\n\n\nWhen we spoke to parents about reminders, most of them said they would like 2-4 reminders, starting a month out.", 
+            "title": "Planning a campaign"
+        }, 
+        {
+            "location": "/planning/#planning-a-campaign", 
+            "text": "", 
+            "title": "Planning a campaign"
+        }, 
+        {
+            "location": "/planning/#who", 
+            "text": "For appointment reminders, you'll contact any clients with upcoming vaccines. For special events and general reminders, consider who your target audience is. It's tempting to cast as wide a net as possible, but it's easy to fall into spamming behavior. People will appreciate texts that are relevant to them the most.", 
+            "title": "Who?"
+        }, 
+        {
+            "location": "/planning/#what", 
+            "text": "What will you be using text messages for? Two common scenarios for public health are appointment reminders and general announcements. Specify a clear goal for your text campaign.  Example could be \"remind client of their upcoming appointment\", or \"inform parents of eighth graders of new vaccine requirements\", or \"advertise our health fair\". In the  next section , we'll cover how to write messages.", 
+            "title": "What?"
+        }, 
+        {
+            "location": "/planning/#when", 
+            "text": "When will you be sending out your messages? You can manually send them, or  schedule  a time in the future.  Are you including a phone number people can call for more information? Make sure you're sending the message during business hours. Likewise, if you're planning on replying to responses individually, you'll want to make sure someone is available to do that.", 
+            "title": "When?"
+        }, 
+        {
+            "location": "/planning/#how-often", 
+            "text": "It's a good idea to send multiple reminders, especially for appointments and events. you'll need to find a balance between helpful and annoying. Consider how many reminders you want to send, and at what intervals.  When we spoke to parents about reminders, most of them said they would like 2-4 reminders, starting a month out.", 
+            "title": "How often?"
+        }, 
+        {
+            "location": "/setting-up/", 
+            "text": "Setting up a campaign\n\n\nIntroduction to TextIt\n\n\nThe tool we'll be using to set up our text message campaign is called TextIt. TextIt is build by a company called \nNyaruka\n, based in Kigali, Rwanda.\n\n\nTextIt allows you to visually build interactive text message campaigns. You don't need a programmer start sending texts. Anyone with a bit of training to set up and administer a campaign.\n\n\n\n\n\nIntroducing TextIt\n from \nTextIt\n on \nVimeo\n.\n\n\nCreating flows in TextIt\n\n\nTesting your campaign\n\n\nTextIt has a \nbuilt in simulator\n. You can use it to see how messages will appear on a phone, right in your browser.\n\n\n\n\n\nAfter you test using the simulator, it's wise to test on a real phone as well. This is a good opportunity to confirm that everything's working, and catch last minute typos. [Instructions on sending it to yourself]", 
+            "title": "Setting up a campaign"
+        }, 
+        {
+            "location": "/setting-up/#setting-up-a-campaign", 
+            "text": "", 
+            "title": "Setting up a campaign"
+        }, 
+        {
+            "location": "/setting-up/#introduction-to-textit", 
+            "text": "The tool we'll be using to set up our text message campaign is called TextIt. TextIt is build by a company called  Nyaruka , based in Kigali, Rwanda.  TextIt allows you to visually build interactive text message campaigns. You don't need a programmer start sending texts. Anyone with a bit of training to set up and administer a campaign.   Introducing TextIt  from  TextIt  on  Vimeo .", 
+            "title": "Introduction to TextIt"
+        }, 
+        {
+            "location": "/setting-up/#creating-flows-in-textit", 
+            "text": "", 
+            "title": "Creating flows in TextIt"
+        }, 
+        {
+            "location": "/setting-up/#testing-your-campaign", 
+            "text": "TextIt has a  built in simulator . You can use it to see how messages will appear on a phone, right in your browser.   After you test using the simulator, it's wise to test on a real phone as well. This is a good opportunity to confirm that everything's working, and catch last minute typos. [Instructions on sending it to yourself]", 
+            "title": "Testing your campaign"
+        }, 
+        {
+            "location": "/writing-messages/", 
+            "text": "Writing messages\n\n\nIn this section, we'll cover the constraints and possibilities of text message content. We'll walk you through some best practices for writing messages. You can also read \nTextIt's suggestions\n for message content.\n\n\nCharacter limit\n\n\nEach text message is limited to 160 characters. That includes letters, punctuation, and spaces. You can use a website like \nCharacter Count Tool\n to help you stick to this limit.\n\n\n\n\n\nPowered by \nCharacter Count Tool\n\n\nIdentify yourself\n\n\nYour text message will be coming from a number without a name attached, so you'll need to identify yourself in the body of the message. This takes up valuable characters, but it's important to do with each message so that recipients know who's texting them. Starting your message with \"KCMO Health Dept:\" is an example.\n\n\nMultiple messages\n\n\nIf you can't fit your message in a single text, you can also send a series of messages. Unfortunately, they don't always arrive in the correct order. It's a good idea to number your messages if they're part of a series, eg: (1/2), (2/2).\n\n\nFrom a recipient's perspective, multiple messages can sometimes feel excessive or overwhelming. Use them cautiously. Only send them when you need to.\n\n\nAbbreviations\n\n\nIt's common to save space in text messages by using abbreviations. However, the meaning of abbreviations isn't always universally understood. We recommend you use abbreviations sparingly.\n\n\nLinks\n\n\nYou can include links in your messages. This is a great way to direct people to more information, but remember that not everyone has a data plan or access to wifi.\n\n\nRemember, they'll be opening the links on their phone. Are you linking to a mobile-friendly website that can easily be read on a phone?\n\n\nPhone numbers\n\n\nMake sure you format any phone numbers correctly so that recipients can click to call (for example, 555-555-5555).\n\n\nIf you include a phone number, make sure the people in charge of answering that phone know you're directing people to them!\n\n\nUnsubscribe\n\n\nYou're \nlegally required\n to give recipients a way to unsubscribe from your text messages. Luckily, TextIt has this feature built in. Anyone who replies with the word \"stop\" will be automatically EXPLAIN HERE. Not every recipeient will know about this feature, so it's best to include instructions in your message. A good example is \"Text STOP to unsubscribe\"\n\n\n[include photo]\n\n\nKeywords\n\n\nLanguages\n\n\nYou can run the same campaign in multiple languages. If you have prefered language data about your recipients, you can sort people into different language groups.\n\n\nTesting\n\n\nEven simple messages can have different meanings to different people. One easy way to make sure your meaning is clear is to test it with different people. Show your message to a few people who aren't working on the project. Ask them to tell you what it's saying in their own words. If any of them misinterpret it, consider rewording.\n\n\nTextIt has some additional \ntesting suggestions\n here.", 
+            "title": "Writing messages"
+        }, 
+        {
+            "location": "/writing-messages/#writing-messages", 
+            "text": "In this section, we'll cover the constraints and possibilities of text message content. We'll walk you through some best practices for writing messages. You can also read  TextIt's suggestions  for message content.", 
+            "title": "Writing messages"
+        }, 
+        {
+            "location": "/writing-messages/#character-limit", 
+            "text": "Each text message is limited to 160 characters. That includes letters, punctuation, and spaces. You can use a website like  Character Count Tool  to help you stick to this limit.   Powered by  Character Count Tool", 
+            "title": "Character limit"
+        }, 
+        {
+            "location": "/writing-messages/#identify-yourself", 
+            "text": "Your text message will be coming from a number without a name attached, so you'll need to identify yourself in the body of the message. This takes up valuable characters, but it's important to do with each message so that recipients know who's texting them. Starting your message with \"KCMO Health Dept:\" is an example.", 
+            "title": "Identify yourself"
+        }, 
+        {
+            "location": "/writing-messages/#multiple-messages", 
+            "text": "If you can't fit your message in a single text, you can also send a series of messages. Unfortunately, they don't always arrive in the correct order. It's a good idea to number your messages if they're part of a series, eg: (1/2), (2/2).  From a recipient's perspective, multiple messages can sometimes feel excessive or overwhelming. Use them cautiously. Only send them when you need to.", 
+            "title": "Multiple messages"
+        }, 
+        {
+            "location": "/writing-messages/#abbreviations", 
+            "text": "It's common to save space in text messages by using abbreviations. However, the meaning of abbreviations isn't always universally understood. We recommend you use abbreviations sparingly.", 
+            "title": "Abbreviations"
+        }, 
+        {
+            "location": "/writing-messages/#links", 
+            "text": "You can include links in your messages. This is a great way to direct people to more information, but remember that not everyone has a data plan or access to wifi.  Remember, they'll be opening the links on their phone. Are you linking to a mobile-friendly website that can easily be read on a phone?", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/writing-messages/#phone-numbers", 
+            "text": "Make sure you format any phone numbers correctly so that recipients can click to call (for example, 555-555-5555).  If you include a phone number, make sure the people in charge of answering that phone know you're directing people to them!", 
+            "title": "Phone numbers"
+        }, 
+        {
+            "location": "/writing-messages/#unsubscribe", 
+            "text": "You're  legally required  to give recipients a way to unsubscribe from your text messages. Luckily, TextIt has this feature built in. Anyone who replies with the word \"stop\" will be automatically EXPLAIN HERE. Not every recipeient will know about this feature, so it's best to include instructions in your message. A good example is \"Text STOP to unsubscribe\"  [include photo]", 
+            "title": "Unsubscribe"
+        }, 
+        {
+            "location": "/writing-messages/#keywords", 
+            "text": "", 
+            "title": "Keywords"
+        }, 
+        {
+            "location": "/writing-messages/#languages", 
+            "text": "You can run the same campaign in multiple languages. If you have prefered language data about your recipients, you can sort people into different language groups.", 
+            "title": "Languages"
+        }, 
+        {
+            "location": "/writing-messages/#testing", 
+            "text": "Even simple messages can have different meanings to different people. One easy way to make sure your meaning is clear is to test it with different people. Show your message to a few people who aren't working on the project. Ask them to tell you what it's saying in their own words. If any of them misinterpret it, consider rewording.  TextIt has some additional  testing suggestions  here.", 
+            "title": "Testing"
+        }, 
+        {
+            "location": "/follow-up/", 
+            "text": "Follow Up\n\n\nStats\n\n\nYou should have a plan for measuring how successful your campaign was. TextIt offers the following analytics.\n\n\nAre you using text messages for the first time, or starting a new type of campaign? A good way to measure your impact is through a control groups.  Identify your target recipients and split them into two groups, a test and a control. Send messages only to the test group. After the appointment time frame or event, check your EHR to see what percentage of each group came in. The larger your groups are, the more accurate your results will be.\n\n\nYou can also get useful data by speaking to your recipients. For example, you might advertise a health fair in multiple ways, including text messages. You can ask attendees how they heard about the event, and tally their answers.\n\n\nRemoving wrong numbers\n\n\nIf you send messages to outdated phone numbers, the new owners may reply letting you know. You can use this information to update your contact lists by removing these outdated phone numbers.", 
+            "title": "Follow up"
+        }, 
+        {
+            "location": "/follow-up/#follow-up", 
+            "text": "", 
+            "title": "Follow Up"
+        }, 
+        {
+            "location": "/follow-up/#stats", 
+            "text": "You should have a plan for measuring how successful your campaign was. TextIt offers the following analytics.  Are you using text messages for the first time, or starting a new type of campaign? A good way to measure your impact is through a control groups.  Identify your target recipients and split them into two groups, a test and a control. Send messages only to the test group. After the appointment time frame or event, check your EHR to see what percentage of each group came in. The larger your groups are, the more accurate your results will be.  You can also get useful data by speaking to your recipients. For example, you might advertise a health fair in multiple ways, including text messages. You can ask attendees how they heard about the event, and tally their answers.", 
+            "title": "Stats"
+        }, 
+        {
+            "location": "/follow-up/#removing-wrong-numbers", 
+            "text": "If you send messages to outdated phone numbers, the new owners may reply letting you know. You can use this information to update your contact lists by removing these outdated phone numbers.", 
+            "title": "Removing wrong numbers"
+        }, 
+        {
+            "location": "/checklist/", 
+            "text": "Checklist", 
+            "title": "Checklist"
+        }, 
+        {
+            "location": "/checklist/#checklist", 
+            "text": "", 
+            "title": "Checklist"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About this site", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#about-this-site", 
+            "text": "", 
+            "title": "About this site"
+        }
+    ]
+}
