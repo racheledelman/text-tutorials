@@ -4,7 +4,15 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-09-06</lastmod>
+     <lastmod>2016-11-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/introduction/</loc>
+     <lastmod>2016-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +20,7 @@
     
     <url>
      <loc>None/planning/</loc>
-     <lastmod>2016-09-06</lastmod>
+     <lastmod>2016-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
      <loc>None/setting-up/</loc>
-     <lastmod>2016-09-06</lastmod>
+     <lastmod>2016-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +36,7 @@
     
     <url>
      <loc>None/writing-messages/</loc>
-     <lastmod>2016-09-06</lastmod>
+     <lastmod>2016-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +44,7 @@
     
     <url>
      <loc>None/follow-up/</loc>
-     <lastmod>2016-09-06</lastmod>
+     <lastmod>2016-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -44,15 +52,7 @@
     
     <url>
      <loc>None/checklist/</loc>
-     <lastmod>2016-09-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/about/</loc>
-     <lastmod>2016-09-06</lastmod>
+     <lastmod>2016-11-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
