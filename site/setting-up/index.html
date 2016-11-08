@@ -122,13 +122,6 @@
     </li>
 <li>
           
-            <li>
-    <li class="toctree-l1 ">
-        <a class="" href="../about/">About</a>
-        
-    </li>
-<li>
-          
         </ul>
       </div>
       &nbsp;
@@ -167,15 +160,45 @@
 <p>These two tools are Twilio and TextIt. Together, they allow you to send text messages at the push of a button. You can think of them like a car: Twilio works as the engine, powering your messages without being seen once you set it up. TextIt is the dashboard that you use to steer and adjust your settings.</p>
 <p>Follow along step by step here to set them up for yourself. Note: these instructions are accurate as of October 2016.</p>
 <h2 id="introduction-to-twilio">Introduction to Twilio</h2>
-<p>[content to come]</p>
+<p>As your first step, you’ll need to set up a Twilio account. You won’t need to interact with this account much.</p>
+<ul>
+<li>Go to Twilio.com</li>
+<li>Click ‘Sign up’ or ‘Get a free API key’</li>
+<li>Fill out the information of the person who will be administering this account.</li>
+<li>You don’t need to fill out the second half of the form, but you can use the following settings if you’d like to:</li>
+</ul>
+<p><img alt="Product: sms. Building: appointment reminders. Language: not a developer." src="../img/twilio_signup.png" /></p>
+<ul>
+<li>Next, you’ll be asked for a phone number to verify the account. Don’t worry, this isn’t the number you’ll be sending texts from. Use your cell phone.</li>
+<li>Once you’ve verified your account, you’ll be taken to the Console Dashboard. Here you’ll find your Account SID and Auth Token. Take note of these, you’ll need them for TextIt.</li>
+</ul>
+<p><img alt="screenshot of console dashboard" src="../img/twilio_tokens.png" /></p>
+<ul>
+<li>As your last step with Twilio, you’ll need to add money to your account. You’re currently in a free trial mode, but to send texts, you’ll need to add funds. Click on the “Upgrade” link. You can start with just $20.</li>
+<li>If your organization is a 501(c)3 non-profit or certified B-Corp, you may be eligible for free or discounted credits through <a href="https://www.twilio.org/">Twilio.org</a>. Apply through their website after you have followed the steps above to create your account! </li>
+</ul>
+<p>You’re done setting up Twilio. Now it’s time to set up your TextIt account.</p>
 <h2 id="introduction-to-textit">Introduction to TextIt</h2>
 <p>The tool we'll be using to set up our text message campaign is called TextIt. TextIt is build by a company called <a href="http://nyaruka.com/">Nyaruka</a>, based in Kigali, Rwanda.</p>
 <p>TextIt allows you to visually build interactive text message campaigns. You don't need to be a programmer start sending texts. Anyone with a bit of training can set up and administer a campaign. So let’s get started!</p>
-<p>First, learn more about TextIt by watching this quick video. You can always learn more by watching their <a href="http://textit.in/video/">training videos</a> and reading their <a href="http://docs.textit.in/">comprehensive documentation</a>.</p>
+<ul>
+<li>Go to textit.in</li>
+<li>Enter your email address in the “Try it for Free” field. </li>
+<li>Create an account with your administrator’s information.</li>
+<li>Click on the “Channels” link in the navigation bar.</li>
+<li>Click the “Connect Twilio” button. TextIt makes it easy to integrate with Twilio.</li>
+<li>Enter the SID and Account Token from your Twilo account.</li>
+</ul>
+<p><img alt="twilio integration screenshot" src="../img/textit_token.png" /></p>
+<ul>
+<li>[get phone number]</li>
+<li>[Add credits]</li>
+<li>Remember to keep track of your log-in credentials. You’ll want to share it with anyone who will be sending out messages in the future.</li>
+</ul>
+<p>Next, learn more about TextIt by watching this quick video. You can always learn more by watching their <a href="http://textit.in/video/">training videos</a> and reading their <a href="http://docs.textit.in/">comprehensive documentation</a>.</p>
 <iframe src="https://player.vimeo.com/video/72253940" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 <p><a href="https://vimeo.com/72253940">Introducing TextIt</a> from <a href="https://vimeo.com/textitin">TextIt</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<p>Then, enter your email address on their homepage to get started. This is the email address that will be used to administer your text campaign, so think about which one you want to use. They will walk you through creating an account. TextIt even gives you free credits to get started with your testing.</p>
 <h2 id="creating-flows-in-textit">Creating flows in TextIt</h2>
 <p>Now, it’s time to set up a test campaign. TextIt calls each diagram of a text campaign a “Flow.” Click from the homepage to see sample flows and get a feel for the structure. Then follow the steps below to set up a new flow:</p>
 <ol>
